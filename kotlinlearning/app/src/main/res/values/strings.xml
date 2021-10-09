@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Insta Reels Downloader</string>
+    <string name="instagram_reels_downloader">Instagram Reels Downloader</string>
+    <string name="download_any_instagram_video_with_just_its_link">Download Instagram Videos IGTV and Reels</string>
+    <string name="enter_or_paste_the_url_of_the_video">Enter or paste the url of the video...</string>
+    <string name="paste">Paste</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="download">Download</string>
+    <string name="designed_and_coded_with_heart_by_n_ikhlaq_yousuf_malik">Designed and coded with ❤ by:\n Ikhlaq Yousuf Malik</string>
+    <string name="ikhlaqmalik_si_gmail_com">ikhlaqmalik.si@gmail.com</string>
+    <string name="_916005283498">+916005283498</string>
+    <string name="beautiful_things_for_beautiful_people">Beautiful things for beautiful people</string>
+</resources>
